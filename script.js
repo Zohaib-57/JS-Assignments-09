@@ -32,15 +32,15 @@
 
 
             // REVERSE STRING
-            let inputString = prompt("Please enter a string:");
+//             let inputString = prompt("Please enter a string:");
 
-let reversedString = "";
+// let reversedString = "";
 
-for (let i = inputString.length - 1; i >= 0; i--) {
-  reversedString += inputString[i];
-}
+// for (let i = inputString.length - 1; i >= 0; i--) {
+//   reversedString += inputString[i];
+// }
 
-console.log("Reversed String: " + reversedString);
+// console.log("Reversed String: " + reversedString);
 
 
 // Factorial
